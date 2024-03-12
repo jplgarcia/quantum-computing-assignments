@@ -1,0 +1,1 @@
+if starting with 1 instead of zero the state of superposition would be: [1/np.sqrt(2), -1/np.sqrt(2)] which would leave each coin toss with the regular 50% chance, so the rest of the game would play out as normal.

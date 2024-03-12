@@ -1,0 +1,1 @@
+If one plays with a biased coin, say the example given of initial state: [-1/np.sqrt(2), -1/np.sqrt(2)] the result will always be the same, 0. The same is true for a state that would always convert to 1 such as [1/np.sqrt(2), -1/np.sqrt(2)]. Also there are initial state combinations where this won`t always be true, but extremly probable such as: [np.sqrt(3)/2,np.e**(1j*np.pi)/2] 
